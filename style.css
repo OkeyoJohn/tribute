@@ -1,0 +1,40 @@
+.titles{
+    display:flex;
+}
+.titles p{
+    background-color:rgb(55, 59, 59);
+    margin:10px;
+    padding:10px;
+}
+.body{
+    background-color:black;
+    color:white;
+    text-align: center;
+
+}
+image{
+    width: 20%;
+
+}
+.reyes{
+    display: flex;
+    justify-content: space-between;
+}
+.reyes p{
+    width: 50%;
+    background-color: aliceblue;
+    color: black;
+    padding:40px;
+    font-size: 20px;
+    margin:20px;
+    border-radius:20px;
+    font-weight: 900;
+}
+.reyes img{
+    margin: auto;
+    width: 30%;
+    border-radius:20px;
+}
+.early p {
+text-wrap: 20%;
+}
